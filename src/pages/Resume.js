@@ -23,6 +23,7 @@ function Resume() {
         download="Resume_Vicky_Zhao.pdf"
         class="clickable"
       >
+        <br />
         download
       </a>
     </div>

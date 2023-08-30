@@ -31,6 +31,9 @@ function NavBar() {
           <a onClick={handleThemeChange} className="fadeIn">
             {theme}
           </a>
+          {/* <button onClick={handleThemeChange} className="fadeIn">
+            {theme}
+          </button> */}
         </CSSTransition>
       </nav>
     </div>
