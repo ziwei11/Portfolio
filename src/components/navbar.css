@@ -19,3 +19,11 @@
   opacity: 0;
   transition: opacity 1000ms ease-in-out;
 }
+
+.bar {
+  text-align: left;
+  max-width: max-content;
+  flex-grow: 3;
+  margin-right: 4.5vh;
+  line-height: 35px;
+}

@@ -16,7 +16,7 @@ function NavBar() {
 
   return (
     <div>
-      <nav>
+      <nav class="bar">
         <NavLink to="/">home</NavLink> <br />
         <NavLink to="/about">about</NavLink> <br />
         <NavLink to="/project">project</NavLink> <br />
@@ -31,9 +31,6 @@ function NavBar() {
           <a onClick={handleThemeChange} className="fadeIn">
             {theme}
           </a>
-          {/* <button onClick={handleThemeChange} className="fadeIn">
-            {theme}
-          </button> */}
         </CSSTransition>
       </nav>
     </div>
