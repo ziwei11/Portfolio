@@ -1,18 +1,18 @@
 :root {
-  --background-primary: #eae0f9;
+  --background-primary: #dccef0;
   --color-primary: black;
   --color-secondary: rgb(55, 55, 55);
-  --color-dash: #99acad;
+  --color-dash: #f6e2ff;
   --background-reverse: #121212;
   --color-reverse: #f5f7fa;
   --box-shadow: rgba(0, 0, 0, 0.3);
 }
 
 .sun {
-  --background-primary: #f6e2ff;
+  --background-primary: #dccef0;
   --color-primary: black;
   --color-secondary: rgb(66, 66, 66);
-  --color-dash: #99acad;
+  --color-dash: #f6e2ff;
   --background-reverse: #121212;
   --color-reverse: #f5f7fa;
   --box-shadow: rgba(0, 0, 0, 0.3);
@@ -107,7 +107,7 @@ a:active,
 
 a:hover,
 .theme_toggle:hover {
-  color: #db7df0;
+  color: #d979ee;
   cursor: pointer;
 }
 
@@ -190,7 +190,7 @@ a:hover,
 }
 
 .nav_element {
-  color: #db7df0 !important;
+  color: #d979ee !important;
 }
 
 #content {
@@ -225,7 +225,7 @@ a:hover,
 
 .clickable:hover,
 .credit:hover {
-  color: #db7df0 !important;
+  color: #d979ee !important;
 }
 
 .credit,
